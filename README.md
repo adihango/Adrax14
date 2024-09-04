@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adrax14" alt="adrax14" /></a> </p>
 
-- 🔭 I’m currently working on **AWS**
+- 🔭 I’m currently working on **MEAN**
 
-- 🌱 I’m currently learning **AI,NodeJS, gcp**
+- 🌱 I’m currently learning **AI,NodeJS, MEAN**
 
-- 🤝 I’m looking for help with **Swift**
+- 🤝 I’m looking for help with **React**
 
 - 📫 How to reach me **adarsh142002hango@gmail.com**
 
